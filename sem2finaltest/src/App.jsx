@@ -57,9 +57,6 @@ function App() {
       <div className="App">
         {/* 1. Header */}
         <h1>#todo</h1>
-        <br />
-        <br />
-
         <div className="app-add-detail-section">
           <button
             className="btn-lg app-btn-title"
