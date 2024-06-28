@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.checkbox-value{
+    display: flex;
+    flex-wrap: wrap;
+}
+.checkbox-section {
+    display: flex;
+    justify-content: space-between;
+    text-align: start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+.checkbox-btn {
+    margin-left: 20px;
+    text-align: end;
+}

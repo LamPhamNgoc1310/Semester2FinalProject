@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.app-btn-title {
+    padding: 20px 40px 0 40px;
+    border-radius: 0;
+    border-color: transparent;
+    border-bottom: 10px solid transparent;
+    background-color: transparent;
+    /* border-color: red; */
+}
+
+.app-btn-title:hover {
+    border-bottom-color: blue;
+}
+
+.app-add-detail-input {
+    border-style: solid;
+    padding: 5px 50px 5px 50px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.app-add-detail-section {
+    position: relative;
+}
+.app-add-detail-placeholder {
+    position: absolute;
+    text-decoration: none;
+    margin-top: 6px;
+    margin-left: -260px;
+    font-weight: 200;
+}
+
+.check-box {
+    margin-left: 700px;
+    width: 300px;
+}
+
